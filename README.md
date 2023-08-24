@@ -1,17 +1,22 @@
-  Projetos de Machine Learning
+# Machine Learning Portfolio
 
-  Tópicos dos projetos:
-  - Coleta de dados;
-  - Limpeza dos dados;
-  - Exploração dos dados;
-  - Modelagem dos dados;
-  - Algoritmos de Machine Learning;
-  - Avaliação do algoritmo.
+This repository contains a portfolio of machine learning projects I have worked on. The projects demonstrate my skills in various machine learning techniques and problem domains.
 
-  Objetivos:
-  1. Escolher datasets próximos de um case real;
-  2. Limpeza dos dados;
-  3. Exploração dos dados;
-  4. Modelagem dos dados;
-  5. Aplicar algoritmos de ML;
-  6. Avaliar o desempenho usando as métricas corretas (performance do modelo vs perfeormance do negócio).
+## Projects
+
+### Bike-rentals with AutoML
+
+- Built a regression model to predict a bike rental inspired in the **Explore Automated Machine Learning in Azure ML** exercise - https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02.html
+- Optimize EDA with Pandas Profiling 
+- Used Pycaret to compare different models metrics and build the best model 
+- Achieved 85% R^2 and on test set
+
+## Skills
+
+**Python:** NumPy, Pandas, Scikit-Learn, Pycaret, Pickle, 
+
+**MLOps:** Gradio, FastAPI, Docker
+
+**Machine Learning:** Classification, Regression, Clustering, NLP, Forecasting, Deep Learning
+
+**Visualization:** Matplotlib, Seaborn, Plotly 
